@@ -1,0 +1,6 @@
+config/google_oauth.local.php
+config/installed.lock
+uploads/products/*
+!uploads/.htaccess
+vscode/mcp.json
+.vscode/mcp.json
